@@ -1,2 +1,2 @@
 # Digital-Marketing_Agency-Landing-Page
-A simple elegant fully responsive digital marketing agency landing page created with vanilla HTML5, CSS3, JavaScript (ES6).
+A simple elegant fully responsive digital marketing agency landing page created with vanilla HTML5, CSS3, JavaScript (ES6). The mockup design for this project is created and designed personally using AdobeXD to layout the components to my own liking. The images in the project itself are handpicked personally and used strategically to fully replicate the design that I made in AdobeXD. You can check out the images in the images folder to see more!!!
